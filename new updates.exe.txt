@@ -1,1 +1,9 @@
-1.0
+Sürüm 1.0
+
+Güncellemeler
+-----------------
+
+-Vac Riski : %0
+-Extra Güncellenen Birşey Yoktur
+
+İyi Oyunlar Dileriz -HexonSwift Ekibi-
